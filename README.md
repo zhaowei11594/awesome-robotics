@@ -33,7 +33,7 @@ This is a list of different books courses and other resources for robotics, it's
 
 ### Data Sets ###
 
-[**NCLT**]The University of Michigan North Campus Long-Term Vision and LIDAR Dataset.
+*[**NCLT**]The University of Michigan North Campus Long-Term Vision and LIDAR Dataset.
 
 http://robots.engin.umich.edu/nclt/
 
