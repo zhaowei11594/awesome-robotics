@@ -31,6 +31,11 @@ This is a list of different books courses and other resources for robotics, it's
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 
+### Data Sets ###
+
+[**NCLT**]The University of Michigan North Campus Long-Term Vision and LIDAR Dataset.
+
+http://robots.engin.umich.edu/nclt/
 
 ### Software and Libraries ###
 [**Gazebo**](http://gazebosim.org/)
